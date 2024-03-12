@@ -1,5 +1,5 @@
 - [x] Finish my changes
-- [ ] Push my commits to GitHub
+- [ ] Push my commits to GitHub new now
 - [ ] Open a pull request new item now
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
